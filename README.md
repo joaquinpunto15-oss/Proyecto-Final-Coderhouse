@@ -67,6 +67,9 @@ Los errores se registran en Notion para permitir su seguimiento
 - Dashboard del la tabla "Lead" en el notion
 https://malachite-bolt-bb3.notion.site/Dashboard-de-Leads-3c1b0571c2fb80859f82f44e1c746418?source=copy_link
 
+
+Aviso: El nodo de "Watch mail" funciona correctamente, solo que por la extensa cantidad de correos que tengo en mi gmail la respuesta del "APPROVED" o el "REJECTED" no la llega a leer (tardaria leyendo los correos), por lo que se debe destinar una cuenta unica de empresa para el proceso. 
+
 El dashboard permite visualizar los principales indicadores del sistema:
 - Total de leads
 - Leads aprobados
